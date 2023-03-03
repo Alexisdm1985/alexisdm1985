@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my first portfolio**
 
-- 🌱 I’m currently learning **Nodejs/Express and Django**
+- 🌱 I’m currently learning **Nodejs/Express/React and Django**
 
 - 📫 How to reach me **alexis.duranmachuca@gmail.com**
 
